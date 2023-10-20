@@ -1,2 +1,0 @@
-machine 2
-Foo: Exit
